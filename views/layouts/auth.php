@@ -10,11 +10,8 @@
 <a href="/">Home</a>
 <a href="/login">Login</a>
 <a href="/register">Register</a>
-<header>Header</header>
 <div class="container">
     {{content}}
 </div>
-
-<footer>Footer</footer>
 </body>
 </html>
